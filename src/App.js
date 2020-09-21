@@ -9,7 +9,7 @@ function App() {
         <a href="/">slik shopping cart</a>
       </header>
       <main>
-        product list
+        product list of sikander
       </main>
       <footer>
         All right
