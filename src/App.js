@@ -1,5 +1,4 @@
-//feature 1
-
+//feature-1
 import React from 'react';
 
 function App() {
